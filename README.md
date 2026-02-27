@@ -26,23 +26,6 @@ I'm a **BTech Information Technology** student at Sandip Institute of Technology
 - 🏅 **IBM Cybersecurity Fundamentals Badge**
 - 📜 **AICTE TechSaksham Certified** (Microsoft & SAP)
 
-## 💼 Professional Experience
-
-### 🤖 AI/ML Intern - TechSaksham (Microsoft & SAP)
-*Jan 2025 - Feb 2025*
-- Developed **health assistant chatbot** using advanced NLP techniques
-- Gained expertise in **AI model deployment** and **project-based learning**
-
-### 🔐 Cybersecurity Intern - IBM SkillsBuild
-*Jan 2025 - Feb 2025*
-- Built **steganography project** for secure data hiding in images
-- Mastered **digital forensics** and **threat intelligence** concepts
-
-### 💻 Software Engineering Virtual Experience - Electronic Arts
-*Nov 2024*
-- Designed **feature proposals** for The Sims 4
-- Implemented **C++ solutions** and optimized data structures
-
 ## 🚀 Featured Projects
 
 ### 🌾 [Agrosarthi - AI-Powered Farming Assistant](your-deployment-link)
